@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main() {
+printf("there once was a man named george \n");
+printf("he was 70 years  old .");
+printf("he really liked the name george ");
+
+return 0;
+}
