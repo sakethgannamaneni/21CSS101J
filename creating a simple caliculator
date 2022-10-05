@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    printf("%f",5.1+2.1);
+
+    return 0;
+}
