@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+char charectorname [] = "saketh";
+char personage [] = "25";
+char charector2 [] = "naveen";
+printf("there once was a person named %s\n", charectorname);
+printf("but he dont like to be age of %s\n", personage);
+printf("hi friend named %s\n",charector2);
+    return 0;
+}
