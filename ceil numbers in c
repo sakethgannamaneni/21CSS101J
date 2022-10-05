@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    printf("%f",ceil(1.4));
+
+    return 0;
+}
