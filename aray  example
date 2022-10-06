@@ -1,0 +1,7 @@
+int main() {
+   int side, area;
+int luckynumbers[]={1,23,34,56,78,85};
+printf("%d",luckynumbers[0]);
+ 
+   return (0);
+}
