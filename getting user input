@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+ int  num=5;
+    printf("%d",num);
+int  num=9;
+    printf("%d",num);
+    return 0;
+}
