@@ -1,0 +1,8 @@
+include <stdio.h>
+
+int main() {
+  int myNumbers[] = {20, 65, 95, 125};
+  printf("%d", myNumbers[0]);
+
+  return 0;
+}
