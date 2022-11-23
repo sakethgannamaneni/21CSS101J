@@ -1,0 +1,13 @@
+#include<stdio.h>
+void main(void){
+  int marks;
+  printf("enter marks of student : ");
+  scanf("%d",&marks);
+  if (marks >= 35) 
+  {
+    printf(" you are passed \n");
+  }
+  else 
+  {
+    printf("fail \n");
+  }
