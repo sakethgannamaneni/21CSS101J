@@ -1,0 +1,22 @@
+#include <stdio.h>
+
+int main() {
+    
+
+    return 0;
+int a = 4;
+switch (a) {
+ case 1: printf("I AM ONE\n");
+         break;
+ case 2: printf("I am Two\n");
+         break;
+ case 3: printf("I an Three\n");
+         break;
+ case 4: printf("I am Four\n");
+         break;
+ case 5: printf("I am Five\n");
+         break;
+ 
+ default: printf("I am default\n");
+
+return 0; }
