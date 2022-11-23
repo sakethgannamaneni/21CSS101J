@@ -1,0 +1,18 @@
+#include <stdio.h>
+main()
+{
+  int a , b , c;
+  scanf("%d %d %d", &a , &b ,&c);
+  if(a>c)
+  printf("a = %2d\n" , a);
+  else 
+    printf("c = %2d\n", c);
+}
+else 
+{
+  if (b > c)
+    printf("b = %2d\n", b);
+  else
+    printf("c = %2d\n", c);
+}
+}
