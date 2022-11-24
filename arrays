@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+  printf("RA2211042010001\n\n");
+  int myNumbers[] = {40, 60, 70, 120};
+  printf("%d", myNumbers[1]);
+ 
+  return 0;
+}
