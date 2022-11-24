@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main() {
+  printf("RA2211042010001\n");
+  int myNum = 10;
+  
+  if (Num > 0)
+    printf("The value is a positive number.");
+  else if (Num < 0)
+    printf("The value is a negative number.");
+  else
+    printf("The value is 0.");
+    
+  return 0;
+}
