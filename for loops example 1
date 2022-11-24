@@ -1,0 +1,6 @@
+#include <stdio.h>
+void main(){
+printf("registration number : RA2211042010001\n");
+  for( int i = 0; i < 5; i++)
+  {printf("hello world! !\n");}
+}
