@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+void main() {
+  printf("RA2211042010001\n");
+  char greetings[] = "happy birthday";
+  printf("%s", greetings);
+}
