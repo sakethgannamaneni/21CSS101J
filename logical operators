@@ -1,0 +1,6 @@
+#include<stdio.h>
+void main(){
+printf("registration number : RA2211042010001\n");
+printf("%d", (4==4));                             
+printf("%d", !(4==4));                            
+}
