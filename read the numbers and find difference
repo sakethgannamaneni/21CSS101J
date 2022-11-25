@@ -1,0 +1,14 @@
+#include <stdio.h>
+void main() {
+printf("RA2211042010001");
+  int a, b, difference;
+  printf("Enter 2 integer values: ");
+  scanf("%d %d", &a, &b); 
+  difference = a-b;
+  if (a-b> -25 && a-b < 25) {
+    printf("%d\n", difference*2); 
+  }
+  else { 
+    printf("%d\n", difference);
+  }
+}
